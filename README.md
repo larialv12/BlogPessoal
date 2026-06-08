@@ -17,6 +17,9 @@ O Blog Pessoal é uma API REST desenvolvida com Java, Spring Boot e MySQL. O sis
 - Persistência de dados em banco MySQL
 - Validação de dados
 
+  <img width="1516" height="836" alt="image" src="https://github.com/user-attachments/assets/f1101a52-d8bf-498f-8d03-1a67088e07bb" />
+
+
 ## Tecnologias
 
 - Java 17
